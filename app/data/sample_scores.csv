@@ -1,0 +1,5 @@
+name,html_score,css_score,js_score,confidence
+Alice,80,70,50,low
+Bob,90,85,80,medium
+Cynthia,40,30,25,low
+David,65,60,45,medium
